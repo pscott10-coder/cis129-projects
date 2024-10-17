@@ -1,0 +1,36 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 14 12:10:39 2024
+By Parker Scott
+
+This program gets input from the user to calculate how many bottles they collected,
+and how much money they would get if they sold the bottles. The Program then
+asks the user if they would like to input another week.
+
+@author: mail2_s9ys
+"""
+#initalizes varibles
+totalBottles = 0
+counter = 1
+totalPayout = 0
+keepGoing = "y"
+
+#loop asks for 7 days of bottle amount inputs
+while keepGoing == "y":
+    for counter in range(7):
+    
+        print("Enter number of bottles for day #", str(counter + 1),":")
+        totalBottles = totalBottles + int(input())
+
+    print("")
+#prints total number of bottles
+    print("The total number of bottles collected is", totalBottles)
+
+    totalPayout = (totalBottles * 0.10)
+#prints total payout of bottles
+    print("The total paid out is $", "{:.2f}".format(totalPayout))
+    
+    print("")
+#asks user if they wish to input another week
+    print("Do you want to enter another week’s worth of data?")
+    keepGoing = input( "(Enter y or n): ")
