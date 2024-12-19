@@ -1,0 +1,50 @@
+Link to Google Doc presentation:
+https://docs.google.com/presentation/d/19kY6PG2WkAJrx9Ou52JL9N3dQ7mlx1mImd8wJ0fhjOI/edit#slide=id.g3207f3725d3_0_55
+(It's better in the presentation)
+
+1st Slide:
+
+I chose this subject of “People Wasting Food,” because we could be more resourceful with our food.
+The average american wastes about a third of the food they buy.
+I wanted to do this after finding moldy bread in my pantry.
+
+2nd Slide:
+
+I actually found tons of software solutions to this problem.
+There are a lot of apps that try to this problem by: Telling you when food you have will expire, what recipes you can cook with the food that you have, helping you shop more effectively to cut down on waste, etc.
+America wastes about 20%-40% of the food it produces. 
+That costs about 240 billion dollars or about $2000 per household.
+The food and money we waste on food waste is more than you think, and those resources could be going to much more beneficial things.
+
+3rd Slide:
+
+These programs can help in tons of places.
+You can use these at home to dish up some cool dishes with minimal waste.
+Restaurants can use this so they can be more efficient with there stock.
+Stores can also use some variation of this to monitor their produce and cut back on food waste.
+
+4th Slide:
+
+I started by thinking about what criteria does this Program need to fulfill?
+Then I broke down each thing and thought about how to do that.
+I Started Pseudocoding with these two things in mind.
+Then I looked over the Program to see if it makes sense.
+Example: during Pseudocoding this I had forgotten to add something about what would happen if nothing was going to expire, so I wrote it in what would happen.
+
+5th Slide:
+
+My Program would uses object oriented programming, it creates a class “food”
+It then has Functions to do the following: Get input from user and stores it in a spreadsheet
+The program repeats that part until “done” is entered
+Then the program checks to see what food (if any) is one week away from expiring.
+
+6th Slide:
+
+What role do restaurants and food service providers play in minimizing food waste, and what practices can they implement?
+How can technology be leveraged to track and reduce food waste in supply chains and retail environments?
+One of the things that surprised me was about how many apps that were already out there. 
+I had opened a bread bag recently and it was completely moldy, so that gave me inspiration to do this subject. 
+I then started researching and found that people were already trying to prevent food waste. There were dozens of apps out there to help you.
+
+
+Citations are in presentation.
